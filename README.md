@@ -4,6 +4,8 @@
   <img width="1074" alt="Screenshot 2020-04-08 at 13 26 14" src="https://user-images.githubusercontent.com/442932/78784056-2de00c00-7994-11ea-988c-36e4af588bf2.png">
 </a>
 
+[![Edit revolut-checkout-widget-next-example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/revolut-engineering/revolut-merchant-api-example-next-js/tree/master/?fontsize=14&hidenavigation=1&module=%2Fpages%2Fcheckout.js&theme=dark)
+
 ## System Requirements
 
 - Node.js 10 or later
@@ -14,7 +16,7 @@
 Clone this repo:
 
 ```sh
-$ git clone git@github.com:exah/revolut-checkout-next-sample.git
+$ git clone git@github.com:revolut-engineering/revolut-merchant-api-example-next-js.git
 $ cd revolut-checkout-next-sample
 ```
 
