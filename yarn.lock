@@ -932,6 +932,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@revolut/checkout@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@revolut/checkout/-/checkout-1.0.0.tgz#0cf9c0f4072139cf9257c271649ef3324c52ce79"
+  integrity sha512-0s60Twq6AEC0EGMNSAIj2kFdkTXeD825do7xZH7d3LoarGSsL1E8AzxAE/wlqueIPKbDkHFtXO+/En1wFp1zCQ==
+
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.8.5.tgz#51b1c5fe6576a34953bf4b253df9f0d490d9e359"

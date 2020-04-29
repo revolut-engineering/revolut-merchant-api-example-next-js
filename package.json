@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@revolut/checkout": "^1.0.0",
     "country-list": "2.2.0",
     "isomorphic-fetch": "2.2.1",
     "next": "9.3.4",

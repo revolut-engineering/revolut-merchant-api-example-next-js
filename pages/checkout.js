@@ -1,4 +1,5 @@
 import fetch from "isomorphic-fetch";
+import RevolutCheckout from '@revolut/checkout'
 import Router from "next/router";
 import Link from "next/link";
 import { getData } from "country-list";
@@ -28,7 +29,7 @@ function CheckoutPage({ order }) {
     event.preventDefault();
 
     const data = new FormData(event.target);
-    const RC = await window.RevolutCheckout(order.token);
+    const RC = await RevolutCheckout(order.token, 'sandbox');
 
     RC.payWithPopup({
       name: data.get("name"),
