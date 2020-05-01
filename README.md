@@ -40,6 +40,10 @@ Open web browser: http://localhost:3000
 
 Read more in our official [developer portal](https://developer.revolut.com/docs/merchant-api/#getting-started).
 
+## Related
+
+- [`@revolut/checkout`](https://github.com/revolut-engineering/revolut-checkout) - RevolutCheckout.js as npm module
+
 ---
 
 © Revolut LTD
