@@ -36,6 +36,24 @@ $ REVOLUT_API_KEY=XXXX npm run dev
 
 Open web browser: http://localhost:3000
 
+## Start with Docker
+
+Create a Revolut Business sandbox account and api token as described in setup.
+
+Build the Dockerfile:
+
+```
+$ docker build -t my-revolut-merchant-backend .
+```
+
+Run the docker:
+
+```
+$ docker run -it --rm -p 8000:3000 -e api_key=XXXX my-revolut-merchant-backend
+```
+
+Open web browser: http://localhost:8000
+
 ## Documentation
 
 Read more in our official [developer portal](https://developer.revolut.com/docs/merchant-api/#getting-started).
