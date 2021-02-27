@@ -16,8 +16,8 @@
 Clone this repo:
 
 ```sh
-$ git clone git@github.com:revolut-engineering/revolut-merchant-api-example-next-js.git
-$ cd revolut-checkout-next-sample
+$ git clone https://github.com/revolut-engineering/revolut-merchant-api-example-next-js.git
+$ cd revolut-merchant-api-example-next-js
 ```
 
 Install dependencies:
