@@ -11,7 +11,7 @@
     "@revolut/checkout": "^1.0.0",
     "country-list": "2.2.0",
     "isomorphic-fetch": "2.2.1",
-    "next": "9.3.4",
+    "next": "11.1.0",
     "pouchdb": "7.2.1",
     "pouchdb-adapter-memory": "7.2.1",
     "react": "16.13.1",
